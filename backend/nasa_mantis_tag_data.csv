@@ -1,0 +1,136 @@
+tag_id,shark_species,shark_size_m,latitude,longitude,timestamp,feeding_detected,feeding_intensity,stomach_ph,bite_force_newtons,swimming_speed_ms,water_temperature,actual_prey_type,predicted_prey_type,prediction_accuracy,tag_confidence,satellite_confidence,data_source,battery_level_percent,signal_strength_dbm
+TAG_MANTIS_001_01,Tiger Shark,4.0,-33.970406,151.157379,2025-10-04T05:22:50.048169,True,0.37,3.82,246.5,2.29,20.04,mixed_diet,mixed_diet,correct,0.08,0.5504,mantis_tag,91.7,-47
+TAG_MANTIS_001_02,Tiger Shark,4.0,-33.661026,151.249883,2025-09-30T15:22:50.049078,True,0.824,1.57,535.1,2.91,18.24,squid_cephalopods,squid_cephalopods,correct,0.68,0.6571,mantis_tag,99.2,-71
+TAG_MANTIS_001_03,Tiger Shark,4.0,-33.969872,151.157482,2025-10-02T09:22:50.051739,True,0.052,2.92,25.0,1.92,19.78,mixed_diet,mixed_diet,correct,0.1,0.5504,mantis_tag,99.2,-81
+TAG_MANTIS_001_04,Tiger Shark,4.0,-33.944029,151.520819,2025-09-29T05:22:50.055202,True,0.336,3.27,228.6,1.22,17.8,squid_cephalopods,squid_cephalopods,correct,0.18,0.6125,mantis_tag,76.9,-78
+TAG_MANTIS_001_05,Tiger Shark,4.0,-33.749479,151.115491,2025-10-02T22:22:50.057635,True,0.519,3.02,329.2,1.7,16.54,squid_cephalopods,squid_cephalopods,correct,0.37,0.4737,mantis_tag,80.4,-85
+TAG_MANTIS_001_06,Tiger Shark,4.0,-34.011519,151.773049,2025-10-02T09:22:50.059609,True,0.516,3.63,248.1,2.04,16.82,plankton_bloom,squid_cephalopods,incorrect,0.23,0.4319,mantis_tag,92.9,-73
+TAG_MANTIS_001_07,Tiger Shark,4.0,-33.765493,151.285327,2025-09-29T23:22:50.060551,True,0.674,4.06,465.4,4.52,16.72,squid_cephalopods,squid_cephalopods,correct,0.47,0.4783,mantis_tag,97.3,-55
+TAG_MANTIS_001_08,Tiger Shark,4.0,-34.001831,151.392678,2025-09-29T04:22:50.061324,True,0.305,3.1,210.5,1.06,17.82,squid_cephalopods,mixed_diet,incorrect,0.18,0.77,mantis_tag,94.7,-82
+TAG_MANTIS_001_09,Tiger Shark,4.0,-33.617373,150.763912,2025-09-30T14:22:50.061831,True,0.624,3.69,411.2,4.64,17.23,squid_cephalopods,squid_cephalopods,correct,0.47,0.5288,mantis_tag,98.2,-58
+TAG_MANTIS_001_10,Tiger Shark,4.0,-33.840406,151.233094,2025-10-02T00:22:50.062646,True,0.219,3.43,138.3,1.77,18.15,mixed_diet,mixed_diet,correct,0.1,0.7055,mantis_tag,85.4,-78
+TAG_MANTIS_001_11,Tiger Shark,4.0,-34.044121,151.369804,2025-10-03T05:22:50.063470,True,0.336,2.91,222.8,2.03,16.77,mixed_diet,mixed_diet,correct,0.18,0.5994,mantis_tag,76.1,-62
+TAG_MANTIS_001_12,Tiger Shark,4.0,-33.837061,151.462343,2025-09-29T02:22:50.064203,True,0.655,3.81,416.1,4.03,17.06,squid_cephalopods,squid_cephalopods,correct,0.47,0.5391,mantis_tag,96.6,-59
+TAG_MANTIS_001_13,Tiger Shark,4.0,-33.994789,151.318334,2025-09-28T10:22:50.064906,True,0.352,3.0,212.1,1.4,17.41,mixed_diet,squid_cephalopods,incorrect,0.18,0.6169,mantis_tag,96.8,-82
+TAG_MANTIS_001_14,Tiger Shark,4.0,-33.986888,151.374245,2025-09-29T15:22:50.065444,True,0.234,3.58,124.0,1.64,17.52,mixed_diet,mixed_diet,correct,0.0,0.6594,mantis_tag,89.3,-56
+TAG_MANTIS_001_15,Tiger Shark,4.0,-33.898594,151.452312,2025-10-02T04:22:50.065860,True,0.208,3.93,136.8,1.32,17.35,squid_cephalopods,squid_cephalopods,correct,0.0,0.4808,mantis_tag,90.1,-62
+TAG_MANTIS_002_01,Great White,4.6,-33.617996,150.762606,2025-09-29T08:22:50.066321,True,0.516,3.83,449.3,1.1,17.57,squid_cephalopods,squid_cephalopods,correct,0.3,0.5288,mantis_tag,93.6,-82
+TAG_MANTIS_002_02,Great White,4.6,-34.006727,151.16994,2025-09-30T21:22:50.066775,True,0.29,4.05,193.6,1.45,16.08,squid_cephalopods,squid_cephalopods,correct,0.08,0.4868,mantis_tag,77.4,-79
+TAG_MANTIS_002_03,Great White,4.6,-33.945381,151.05936,2025-10-01T06:22:50.067216,True,0.331,4.16,245.1,1.12,17.16,squid_cephalopods,squid_cephalopods,correct,0.08,0.516,mantis_tag,75.3,-50
+TAG_MANTIS_002_04,Great White,4.6,-33.857929,151.483907,2025-10-01T02:22:50.067629,True,0.517,3.92,447.7,1.79,16.31,squid_cephalopods,squid_cephalopods,correct,0.3,0.5547,mantis_tag,78.1,-88
+TAG_MANTIS_002_05,Great White,4.6,-33.750536,151.116052,2025-10-04T06:22:50.068238,True,0.194,3.92,138.7,1.32,16.83,squid_cephalopods,squid_cephalopods,correct,0.0,0.4737,mantis_tag,93.0,-65
+TAG_MANTIS_002_06,Great White,4.6,-33.957579,151.162181,2025-10-03T19:22:50.068910,True,0.195,3.72,128.0,1.43,15.13,mixed_diet,mixed_diet,correct,0.0,0.734,mantis_tag,78.6,-47
+TAG_MANTIS_002_07,Great White,4.6,-33.843939,151.325301,2025-09-28T13:22:50.071450,True,0.313,3.97,199.1,1.35,15.95,squid_cephalopods,squid_cephalopods,correct,0.08,0.4717,mantis_tag,83.1,-77
+TAG_MANTIS_002_08,Great White,4.6,-33.361882,151.248315,2025-09-30T22:22:50.073447,True,0.402,3.16,315.9,2.13,15.24,squid_cephalopods,squid_cephalopods,correct,0.37,0.4498,mantis_tag,62.8,-85
+TAG_MANTIS_003_01,Hammerhead,4.2,-33.924811,151.412799,2025-09-30T12:22:50.075079,True,0.477,3.37,227.6,1.24,17.05,squid_cephalopods,squid_cephalopods,correct,0.33,0.7069,mantis_tag,90.3,-69
+TAG_MANTIS_003_02,Hammerhead,4.2,-33.575451,150.71436,2025-09-27T23:22:50.076827,True,0.277,3.52,120.4,1.76,16.79,plankton_bloom,squid_cephalopods,incorrect,0.0,0.4129,mantis_tag,67.1,-44
+TAG_MANTIS_003_03,Hammerhead,4.2,-33.556015,150.735513,2025-09-29T03:22:50.077731,True,0.298,3.25,136.5,1.42,16.28,mixed_diet,squid_cephalopods,incorrect,0.1,0.4322,mantis_tag,96.0,-84
+TAG_MANTIS_003_04,Hammerhead,4.2,-33.003666,151.43834,2025-09-30T22:22:50.078727,True,0.613,3.49,257.2,3.48,18.47,plankton_bloom,squid_cephalopods,incorrect,0.5,0.4778,mantis_tag,92.4,-49
+TAG_MANTIS_003_05,Hammerhead,4.2,-33.873203,150.694464,2025-09-30T10:22:50.079364,True,0.52,4.18,270.5,1.22,15.85,squid_cephalopods,squid_cephalopods,correct,0.27,0.5315,mantis_tag,72.6,-88
+TAG_MANTIS_003_06,Hammerhead,4.2,-34.109642,151.370899,2025-10-01T08:22:50.079839,True,0.349,2.81,165.2,1.66,16.46,mixed_diet,squid_cephalopods,incorrect,0.18,0.545,mantis_tag,97.6,-82
+TAG_MANTIS_003_07,Hammerhead,4.2,-33.967741,151.093827,2025-10-01T22:22:50.080538,True,0.558,3.49,294.8,1.35,15.22,mixed_diet,mixed_diet,correct,0.37,0.4838,mantis_tag,91.6,-70
+TAG_MANTIS_003_08,Hammerhead,4.2,-33.651387,151.210493,2025-09-29T06:22:50.081003,True,0.229,3.19,84.0,1.38,17.4,squid_cephalopods,squid_cephalopods,correct,0.1,0.5265,mantis_tag,86.8,-85
+TAG_MANTIS_003_09,Hammerhead,4.2,-34.002068,151.391265,2025-09-27T20:22:50.081469,True,0.157,3.9,69.5,1.69,18.01,mixed_diet,mixed_diet,correct,0.0,0.77,mantis_tag,78.4,-46
+TAG_MANTIS_004_01,Great White,3.9,-33.958602,151.269331,2025-10-01T20:22:50.082250,True,0.439,3.11,253.3,1.5,17.18,squid_cephalopods,squid_cephalopods,correct,0.37,0.6416,mantis_tag,99.0,-88
+TAG_MANTIS_004_02,Great White,3.9,-33.815692,151.345596,2025-10-04T13:22:50.082737,True,0.832,1.47,593.4,3.34,16.5,squid_cephalopods,squid_cephalopods,correct,0.68,0.4382,mantis_tag,97.0,-87
+TAG_MANTIS_004_03,Great White,3.9,-34.468047,151.507523,2025-10-03T05:22:50.083392,True,0.415,4.2,309.7,1.03,16.19,squid_cephalopods,squid_cephalopods,correct,0.27,0.4918,mantis_tag,62.5,-43
+TAG_MANTIS_004_04,Great White,3.9,-33.880611,151.296483,2025-10-02T05:22:50.084082,True,0.542,3.69,342.7,2.13,16.83,mixed_diet,mixed_diet,correct,0.27,0.7495,mantis_tag,91.0,-51
+TAG_MANTIS_004_05,Great White,3.9,-33.776957,151.200175,2025-10-02T23:22:50.084658,True,0.604,3.63,356.0,5.18,15.79,mixed_diet,mixed_diet,correct,0.44,0.7367,mantis_tag,87.8,-80
+TAG_MANTIS_004_06,Great White,3.9,-33.884526,151.913857,2025-10-04T10:22:50.085201,True,0.337,3.75,203.8,1.53,16.97,squid_cephalopods,squid_cephalopods,correct,0.08,0.4303,mantis_tag,89.8,-75
+TAG_MANTIS_004_07,Great White,3.9,-33.931384,151.218764,2025-10-02T09:22:50.087460,True,0.232,3.43,131.6,2.01,16.54,mixed_diet,mixed_diet,correct,0.1,0.6465,mantis_tag,90.2,-74
+TAG_MANTIS_004_08,Great White,3.9,-33.999007,151.226472,2025-09-29T22:22:50.089829,True,0.4,2.89,270.8,1.38,18.64,squid_cephalopods,squid_cephalopods,correct,0.22,0.7225,mantis_tag,81.7,-72
+TAG_MANTIS_004_09,Great White,3.9,-34.044581,151.370481,2025-10-04T03:22:50.091318,True,0.52,3.87,364.3,1.45,16.85,mixed_diet,mixed_diet,correct,0.27,0.5994,mantis_tag,84.4,-54
+TAG_MANTIS_004_10,Great White,3.9,-33.843379,151.323671,2025-10-02T15:22:50.093882,True,0.61,3.23,436.9,4.48,16.48,mixed_diet,squid_cephalopods,incorrect,0.57,0.4717,mantis_tag,98.6,-55
+TAG_MANTIS_004_11,Great White,3.9,-33.809778,151.150431,2025-10-01T14:22:50.095815,True,0.555,3.51,286.6,1.48,16.85,plankton_bloom,plankton_bloom,correct,0.27,0.7865,mantis_tag,80.3,-73
+TAG_MANTIS_004_12,Great White,3.9,-33.851085,151.313252,2025-09-29T17:22:50.097211,True,0.453,3.02,264.7,1.74,15.16,squid_cephalopods,squid_cephalopods,correct,0.37,0.446,mantis_tag,25.0,-50
+TAG_MANTIS_005_01,Hammerhead,4.2,-33.897821,151.452739,2025-09-29T07:22:50.097667,True,0.138,3.67,71.3,1.48,17.66,squid_cephalopods,squid_cephalopods,correct,0.0,0.4808,mantis_tag,78.6,-46
+TAG_MANTIS_005_02,Hammerhead,4.2,-33.857135,151.14698,2025-09-29T16:22:50.098096,True,0.327,4.07,129.3,1.19,15.36,mixed_diet,mixed_diet,correct,0.0,0.6079,mantis_tag,96.2,-53
+TAG_MANTIS_005_03,Hammerhead,4.2,-33.772427,151.305652,2025-09-27T23:22:50.098509,True,0.054,2.98,28.7,2.08,16.2,squid_cephalopods,squid_cephalopods,correct,0.1,0.52,mantis_tag,99.8,-62
+TAG_MANTIS_005_04,Hammerhead,4.2,-33.88637,151.913672,2025-09-29T11:22:50.098943,True,0.61,3.68,301.7,4.64,16.85,squid_cephalopods,squid_cephalopods,correct,0.44,0.4303,mantis_tag,73.6,-75
+TAG_MANTIS_005_05,Hammerhead,4.2,-33.768465,151.134298,2025-10-03T04:22:50.099395,True,0.271,2.99,138.8,2.06,17.11,mixed_diet,mixed_diet,correct,0.1,0.6227,mantis_tag,97.7,-88
+TAG_MANTIS_005_06,Hammerhead,4.2,-33.594929,151.259006,2025-10-03T00:22:50.100051,True,0.225,3.55,83.3,1.24,16.5,squid_cephalopods,squid_cephalopods,correct,0.0,0.544,mantis_tag,99.9,-58
+TAG_MANTIS_005_07,Hammerhead,4.2,-33.886538,151.913593,2025-10-03T10:22:50.100539,True,0.211,3.06,83.6,2.3,17.53,squid_cephalopods,squid_cephalopods,correct,0.1,0.4303,mantis_tag,71.3,-66
+TAG_MANTIS_005_08,Hammerhead,4.2,-33.947157,151.059187,2025-09-30T06:22:50.101045,True,0.137,3.14,60.7,0.9,17.06,squid_cephalopods,squid_cephalopods,correct,0.1,0.516,mantis_tag,96.4,-71
+TAG_MANTIS_006_01,Tiger Shark,4.0,-33.651091,151.209925,2025-10-02T22:22:50.103846,True,0.656,3.68,382.5,4.51,17.57,squid_cephalopods,squid_cephalopods,correct,0.44,0.5265,mantis_tag,93.5,-45
+TAG_MANTIS_006_02,Tiger Shark,4.0,-33.987523,151.302627,2025-10-03T01:22:50.106001,True,0.609,3.78,313.7,3.23,16.39,mixed_diet,mixed_diet,correct,0.4,0.5646,mantis_tag,98.8,-47
+TAG_MANTIS_006_03,Tiger Shark,4.0,-33.764213,151.273524,2025-10-04T06:22:50.107610,True,0.879,1.56,536.8,4.99,18.51,squid_cephalopods,squid_cephalopods,correct,0.72,0.5607,mantis_tag,80.1,-71
+TAG_MANTIS_006_04,Tiger Shark,4.0,-33.95894,151.271088,2025-09-30T12:22:50.108509,True,0.153,3.08,99.5,0.91,16.67,plankton_bloom,squid_cephalopods,incorrect,0.1,0.6416,mantis_tag,65.9,-69
+TAG_MANTIS_006_05,Tiger Shark,4.0,-33.919721,151.457428,2025-10-01T13:22:50.109174,True,0.638,3.0,313.9,3.3,18.68,small_fish,squid_cephalopods,incorrect,0.5,0.597,mantis_tag,97.5,-44
+TAG_MANTIS_006_06,Tiger Shark,4.0,-33.575615,150.713864,2025-10-01T19:22:50.109621,True,0.519,4.0,298.8,1.92,16.82,squid_cephalopods,squid_cephalopods,correct,0.27,0.4129,mantis_tag,94.8,-60
+TAG_MANTIS_006_07,Tiger Shark,4.0,-33.862059,151.298002,2025-09-30T13:22:50.110242,True,0.551,3.32,316.7,2.03,17.75,mixed_diet,mixed_diet,correct,0.37,0.6897,mantis_tag,89.6,-72
+TAG_MANTIS_006_08,Tiger Shark,4.0,-33.750302,151.116708,2025-10-02T23:22:50.110667,True,0.398,3.32,264.2,2.11,16.83,squid_cephalopods,squid_cephalopods,correct,0.22,0.4737,mantis_tag,97.4,-83
+TAG_MANTIS_006_09,Tiger Shark,4.0,-34.001836,151.393032,2025-09-28T15:22:50.111100,True,0.369,4.05,248.4,2.0,18.13,mixed_diet,mixed_diet,correct,0.08,0.77,mantis_tag,78.5,-56
+TAG_MANTIS_006_10,Tiger Shark,4.0,-33.751179,151.116135,2025-09-29T15:22:50.111536,True,0.399,3.25,204.6,2.21,17.12,squid_cephalopods,squid_cephalopods,correct,0.18,0.4737,mantis_tag,92.2,-51
+TAG_MANTIS_006_11,Tiger Shark,4.0,-34.03851,151.069436,2025-10-03T11:22:50.112032,True,0.349,3.13,165.1,1.89,17.16,squid_cephalopods,squid_cephalopods,correct,0.18,0.6718,mantis_tag,95.7,-50
+TAG_MANTIS_006_12,Tiger Shark,4.0,-33.972379,151.083577,2025-10-01T00:22:50.112465,True,0.582,3.22,322.0,0.93,17.31,squid_cephalopods,squid_cephalopods,correct,0.37,0.7008,mantis_tag,81.6,-65
+TAG_MANTIS_006_13,Tiger Shark,4.0,-33.864016,151.296218,2025-10-03T10:22:50.112880,True,0.587,3.0,375.4,1.3,18.22,mixed_diet,mixed_diet,correct,0.37,0.6897,mantis_tag,89.2,-45
+TAG_MANTIS_007_01,Hammerhead,4.4,-33.945016,151.059535,2025-10-01T03:22:50.113329,True,0.554,2.99,238.1,1.63,17.45,squid_cephalopods,squid_cephalopods,correct,0.33,0.516,mantis_tag,87.6,-76
+TAG_MANTIS_007_02,Hammerhead,4.4,-34.033697,150.881908,2025-09-30T16:22:50.113748,True,0.226,3.2,118.7,1.37,15.86,squid_cephalopods,squid_cephalopods,correct,0.1,0.4627,mantis_tag,93.4,-44
+TAG_MANTIS_007_03,Hammerhead,4.4,-33.985068,151.321638,2025-10-02T03:22:50.114151,True,0.243,3.85,98.6,1.22,15.16,squid_cephalopods,squid_cephalopods,correct,0.0,0.4467,mantis_tag,89.9,-45
+TAG_MANTIS_007_04,Hammerhead,4.4,-33.750055,151.317697,2025-09-28T08:22:50.114600,True,0.236,3.02,99.1,1.12,14.47,small_fish,mixed_diet,incorrect,0.1,0.6659,mantis_tag,98.7,-68
+TAG_MANTIS_007_05,Hammerhead,4.4,-33.653135,151.209672,2025-09-29T02:22:50.115076,True,0.482,3.58,191.1,2.24,17.38,plankton_bloom,squid_cephalopods,incorrect,0.23,0.5265,mantis_tag,79.8,-44
+TAG_MANTIS_007_06,Hammerhead,4.4,-33.967695,151.095392,2025-09-29T11:22:50.115482,True,0.64,4.07,315.5,4.08,15.55,mixed_diet,mixed_diet,correct,0.44,0.4838,mantis_tag,95.2,-52
+TAG_MANTIS_007_07,Hammerhead,4.4,-33.810575,151.134761,2025-10-03T11:22:50.115913,True,0.325,4.18,130.1,1.44,17.63,mixed_diet,mixed_diet,correct,0.0,0.6334,mantis_tag,99.5,-60
+TAG_MANTIS_007_08,Hammerhead,4.4,-33.971753,151.084769,2025-10-01T02:22:50.116336,True,0.327,3.24,138.6,1.59,17.31,squid_cephalopods,squid_cephalopods,correct,0.1,0.7008,mantis_tag,92.1,-71
+TAG_MANTIS_007_09,Hammerhead,4.4,-33.9652,151.092815,2025-09-28T16:22:50.117108,True,0.482,2.97,250.9,2.29,15.6,mixed_diet,mixed_diet,correct,0.37,0.4838,mantis_tag,99.3,-57
+TAG_MANTIS_007_10,Hammerhead,4.4,-33.842661,151.325004,2025-10-02T04:22:50.119106,True,0.773,1.81,363.7,4.36,16.3,squid_cephalopods,squid_cephalopods,correct,0.64,0.4717,mantis_tag,82.1,-50
+TAG_MANTIS_007_11,Hammerhead,4.4,-33.626067,151.561182,2025-10-02T22:22:50.119913,True,0.754,1.75,340.8,2.94,16.01,squid_cephalopods,squid_cephalopods,correct,0.6,0.4087,mantis_tag,97.2,-81
+TAG_MANTIS_007_12,Hammerhead,4.4,-33.607472,150.951297,2025-09-30T10:22:50.120512,True,0.113,4.02,52.6,2.14,14.67,squid_cephalopods,squid_cephalopods,correct,0.0,0.488,mantis_tag,42.2,-47
+TAG_MANTIS_007_13,Hammerhead,4.4,-33.925088,151.060053,2025-09-29T08:22:50.121011,True,0.393,3.67,161.6,0.94,16.12,mixed_diet,mixed_diet,correct,0.08,0.5377,mantis_tag,94.1,-78
+TAG_MANTIS_007_14,Hammerhead,4.4,-33.764621,151.274304,2025-10-02T13:22:50.121478,True,0.632,2.83,262.6,5.19,18.04,squid_cephalopods,squid_cephalopods,correct,0.54,0.5607,mantis_tag,74.0,-88
+TAG_MANTIS_008_01,Bull Shark,3.4,-33.998024,151.226784,2025-10-03T09:22:50.121923,True,0.745,1.81,360.2,4.38,18.02,squid_cephalopods,squid_cephalopods,correct,0.64,0.7225,mantis_tag,97.4,-46
+TAG_MANTIS_008_02,Bull Shark,3.4,-33.971739,151.474083,2025-10-01T17:22:50.122349,True,0.235,3.56,124.5,0.92,17.88,squid_cephalopods,squid_cephalopods,correct,0.0,0.6728,mantis_tag,95.9,-68
+TAG_MANTIS_008_03,Bull Shark,3.4,-33.925799,151.220117,2025-09-29T17:22:50.122781,True,0.338,3.63,207.7,1.66,18.12,mixed_diet,mixed_diet,correct,0.08,0.7397,mantis_tag,99.2,-78
+TAG_MANTIS_008_04,Bull Shark,3.4,-33.997607,151.226651,2025-10-02T14:22:50.123175,True,0.1,3.39,47.9,1.29,18.22,squid_cephalopods,squid_cephalopods,correct,0.1,0.7225,mantis_tag,88.0,-56
+TAG_MANTIS_008_05,Bull Shark,3.4,-33.998233,151.225845,2025-09-29T11:22:50.123544,True,0.279,3.05,154.3,2.22,18.52,squid_cephalopods,squid_cephalopods,correct,0.18,0.7225,mantis_tag,62.8,-53
+TAG_MANTIS_008_06,Bull Shark,3.4,-33.004149,151.437964,2025-09-29T10:22:50.123942,True,0.526,3.59,287.0,1.35,18.45,squid_cephalopods,squid_cephalopods,correct,0.27,0.4778,mantis_tag,98.7,-60
+TAG_MANTIS_008_07,Bull Shark,3.4,-33.966605,151.257917,2025-10-01T07:22:50.124321,True,0.423,3.33,205.7,2.02,18.78,mixed_diet,mixed_diet,correct,0.33,0.781,mantis_tag,95.5,-63
+TAG_MANTIS_008_08,Bull Shark,3.4,-33.925753,151.221369,2025-09-28T04:22:50.124688,True,0.701,1.32,301.1,4.32,18.47,mixed_diet,mixed_diet,correct,0.64,0.7397,mantis_tag,99.0,-87
+TAG_MANTIS_008_09,Bull Shark,3.4,-33.967777,151.258293,2025-10-03T14:22:50.125085,True,0.686,3.8,326.4,5.17,18.39,mixed_diet,mixed_diet,correct,0.44,0.781,mantis_tag,94.5,-85
+TAG_MANTIS_008_10,Bull Shark,3.4,-33.966734,151.256959,2025-09-29T13:22:50.125522,True,0.526,3.14,308.2,1.51,18.29,mixed_diet,mixed_diet,correct,0.37,0.781,mantis_tag,96.3,-47
+TAG_MANTIS_008_11,Bull Shark,3.4,-33.969802,151.156446,2025-09-27T16:22:50.125942,True,0.297,3.8,160.9,1.28,19.72,mixed_diet,mixed_diet,correct,0.08,0.5504,mantis_tag,91.5,-54
+TAG_MANTIS_008_12,Bull Shark,3.4,-33.998744,151.227003,2025-10-01T21:22:50.126356,True,0.131,4.13,80.3,1.09,19.19,squid_cephalopods,squid_cephalopods,correct,0.0,0.7225,mantis_tag,93.8,-88
+TAG_MANTIS_008_13,Bull Shark,3.4,-33.926203,151.219384,2025-09-27T19:22:50.126813,True,0.309,3.82,131.3,1.09,17.55,small_fish,mixed_diet,incorrect,0.0,0.7397,mantis_tag,93.7,-44
+TAG_MANTIS_008_14,Bull Shark,3.4,-33.004481,151.437296,2025-10-03T23:22:50.127258,True,0.738,1.52,377.5,4.49,18.5,squid_cephalopods,squid_cephalopods,correct,0.64,0.4778,mantis_tag,83.0,-62
+TAG_MANTIS_008_15,Bull Shark,3.4,-33.867069,151.231071,2025-10-04T01:22:50.127661,True,0.115,3.19,54.3,1.38,18.36,mixed_diet,mixed_diet,correct,0.1,0.7159,mantis_tag,81.3,-67
+TAG_MANTIS_009_01,Bronze Whaler,3.6,-33.748535,151.115299,2025-09-27T16:22:50.128115,True,0.508,3.9,139.6,1.82,16.77,squid_cephalopods,squid_cephalopods,correct,0.15,0.4737,mantis_tag,99.6,-86
+TAG_MANTIS_009_02,Bronze Whaler,3.6,-33.772146,151.295481,2025-10-02T00:22:50.128550,True,0.546,2.84,141.4,1.5,15.96,squid_cephalopods,squid_cephalopods,correct,0.25,0.4784,mantis_tag,86.7,-82
+TAG_MANTIS_009_03,Bronze Whaler,3.6,-33.608034,151.292176,2025-09-30T16:22:50.128967,True,0.5,4.02,143.6,1.9,15.33,squid_cephalopods,squid_cephalopods,correct,0.15,0.5572,mantis_tag,76.2,-50
+TAG_MANTIS_009_04,Bronze Whaler,3.6,-33.723196,151.22663,2025-10-02T18:22:50.129404,True,0.579,3.63,147.4,1.31,16.2,small_fish,squid_cephalopods,incorrect,0.15,0.4774,mantis_tag,83.9,-67
+TAG_MANTIS_009_05,Bronze Whaler,3.6,-33.772573,151.303859,2025-09-29T06:22:50.129803,True,0.228,2.83,70.5,1.61,16.93,squid_cephalopods,squid_cephalopods,correct,0.1,0.52,mantis_tag,84.5,-58
+TAG_MANTIS_009_06,Bronze Whaler,3.6,-33.853453,151.259367,2025-09-27T18:22:50.130244,True,0.12,3.82,27.8,2.05,15.58,mixed_diet,squid_cephalopods,incorrect,0.0,0.5944,mantis_tag,90.2,-77
+TAG_MANTIS_009_07,Bronze Whaler,3.6,-33.766989,151.133224,2025-10-02T02:22:50.130679,True,0.47,3.49,134.4,1.08,17.33,mixed_diet,mixed_diet,correct,0.25,0.6227,mantis_tag,95.0,-52
+TAG_MANTIS_009_08,Bronze Whaler,3.6,-33.994667,151.263022,2025-09-30T03:22:50.131125,True,0.396,3.86,117.3,1.13,15.06,small_fish,squid_cephalopods,incorrect,0.0,0.5342,mantis_tag,83.9,-52
+TAG_MANTIS_010_01,Bull Shark,3.2,-33.765351,151.272607,2025-10-01T22:22:50.131549,True,0.043,3.54,23.7,1.61,18.23,squid_cephalopods,squid_cephalopods,correct,0.0,0.5607,mantis_tag,91.2,-67
+TAG_MANTIS_010_02,Bull Shark,3.2,-33.924404,151.219759,2025-10-02T11:22:50.131953,True,0.495,4.13,234.2,1.87,17.57,mixed_diet,mixed_diet,correct,0.23,0.7397,mantis_tag,98.6,-69
+TAG_MANTIS_010_03,Bull Shark,3.2,-33.997253,151.226612,2025-09-30T02:22:50.132664,True,0.834,2.1,372.1,3.0,18.53,squid_cephalopods,squid_cephalopods,correct,0.6,0.7225,mantis_tag,98.0,-79
+TAG_MANTIS_010_04,Bull Shark,3.2,-33.918077,151.457794,2025-09-28T17:22:50.134269,True,0.14,3.62,62.0,1.79,18.19,squid_cephalopods,squid_cephalopods,correct,0.0,0.597,mantis_tag,89.8,-84
+TAG_MANTIS_010_05,Bull Shark,3.2,-33.918352,151.456801,2025-10-04T04:22:50.135795,True,0.536,3.13,314.5,2.17,18.18,squid_cephalopods,squid_cephalopods,correct,0.37,0.597,mantis_tag,78.3,-46
+TAG_MANTIS_010_06,Bull Shark,3.2,-33.967028,151.257053,2025-09-29T21:22:50.136917,True,0.102,2.83,42.2,1.22,18.03,squid_cephalopods,mixed_diet,incorrect,0.1,0.781,mantis_tag,92.5,-55
+TAG_MANTIS_010_07,Bull Shark,3.2,-33.004565,151.438215,2025-10-01T03:22:50.137590,True,0.499,3.19,259.5,1.75,18.2,squid_cephalopods,squid_cephalopods,correct,0.37,0.4778,mantis_tag,45.7,-83
+TAG_MANTIS_010_08,Bull Shark,3.2,-33.004079,151.437182,2025-10-01T03:22:50.138037,True,0.773,1.56,407.7,3.47,18.65,squid_cephalopods,squid_cephalopods,correct,0.63,0.4778,mantis_tag,98.8,-69
+TAG_MANTIS_010_09,Bull Shark,3.2,-34.04164,151.182932,2025-09-29T19:22:50.138524,True,0.791,1.2,329.4,4.84,18.55,squid_cephalopods,mixed_diet,incorrect,0.64,0.648,mantis_tag,87.4,-71
+TAG_MANTIS_010_10,Bull Shark,3.2,-33.925066,151.221741,2025-09-27T16:22:50.138908,True,0.25,3.73,133.0,1.97,18.02,mixed_diet,mixed_diet,correct,0.0,0.7397,mantis_tag,94.5,-64
+TAG_MANTIS_010_11,Bull Shark,3.2,-33.997104,151.228403,2025-10-01T10:22:50.139298,True,0.368,2.82,186.2,1.26,18.91,squid_cephalopods,squid_cephalopods,correct,0.18,0.7225,mantis_tag,99.2,-53
+TAG_MANTIS_011_01,Hammerhead,3.8,-34.103509,151.277317,2025-09-28T09:22:50.139743,True,0.643,3.75,238.5,3.89,16.31,squid_cephalopods,squid_cephalopods,correct,0.4,0.5853,mantis_tag,92.2,-53
+TAG_MANTIS_011_02,Hammerhead,3.8,-33.924411,151.412997,2025-10-02T18:22:50.140365,True,0.175,3.03,61.4,1.92,17.1,squid_cephalopods,squid_cephalopods,correct,0.1,0.7069,mantis_tag,93.8,-49
+TAG_MANTIS_011_03,Hammerhead,3.8,-33.003177,151.437089,2025-09-27T20:22:50.140817,True,0.38,3.35,144.1,1.33,18.76,squid_cephalopods,squid_cephalopods,correct,0.1,0.4778,mantis_tag,84.0,-68
+TAG_MANTIS_011_04,Hammerhead,3.8,-33.720668,151.47241,2025-10-01T02:22:50.141231,True,0.151,3.91,52.1,1.09,17.54,squid_cephalopods,squid_cephalopods,correct,0.0,0.5499,mantis_tag,72.1,-70
+TAG_MANTIS_011_05,Hammerhead,3.8,-34.02,151.436985,2025-09-29T15:22:50.141607,True,0.692,4.0,287.8,3.74,17.3,squid_cephalopods,squid_cephalopods,correct,0.44,0.5706,mantis_tag,95.5,-60
+TAG_MANTIS_011_06,Hammerhead,3.8,-33.647175,151.428269,2025-10-03T00:22:50.142209,True,0.214,3.84,73.5,0.93,16.24,squid_cephalopods,squid_cephalopods,correct,0.0,0.5089,mantis_tag,96.9,-57
+TAG_MANTIS_011_07,Hammerhead,3.8,-34.032451,150.880809,2025-10-02T12:22:50.142640,True,0.213,3.82,94.4,1.98,15.88,squid_cephalopods,squid_cephalopods,correct,0.0,0.4627,mantis_tag,97.5,-70
+TAG_MANTIS_011_08,Hammerhead,3.8,-34.05066,150.936972,2025-09-28T15:22:50.143035,True,0.407,3.23,153.5,1.28,15.25,squid_cephalopods,squid_cephalopods,correct,0.33,0.4961,mantis_tag,56.3,-45
+TAG_MANTIS_012_01,Tiger Shark,4.3,-33.723889,151.226139,2025-09-28T01:22:50.143458,True,0.239,3.34,126.2,1.1,16.25,squid_cephalopods,squid_cephalopods,correct,0.1,0.4774,mantis_tag,96.1,-67
+TAG_MANTIS_012_02,Tiger Shark,4.3,-33.998037,151.227543,2025-09-29T15:22:50.143880,True,0.454,4.12,272.7,1.12,18.27,squid_cephalopods,squid_cephalopods,correct,0.27,0.7225,mantis_tag,96.3,-54
+TAG_MANTIS_012_03,Tiger Shark,4.3,-33.972515,151.085397,2025-10-02T12:22:50.144324,True,0.398,4.02,286.6,1.85,17.52,mixed_diet,squid_cephalopods,incorrect,0.12,0.7008,mantis_tag,99.4,-47
+TAG_MANTIS_012_04,Tiger Shark,4.3,-34.212274,151.238577,2025-09-30T12:22:50.144801,True,0.407,3.18,301.9,1.05,17.17,squid_cephalopods,squid_cephalopods,correct,0.37,0.4433,mantis_tag,98.3,-58
+TAG_MANTIS_012_05,Tiger Shark,4.3,-33.47024,151.763097,2025-09-28T05:22:50.145283,True,0.299,2.93,185.0,1.01,16.6,squid_cephalopods,squid_cephalopods,correct,0.18,0.4357,mantis_tag,87.3,-72
+TAG_MANTIS_012_06,Tiger Shark,4.3,-33.957054,151.270229,2025-10-03T12:22:50.145842,True,0.43,3.15,302.4,2.12,16.97,squid_cephalopods,squid_cephalopods,correct,0.37,0.6416,mantis_tag,78.6,-78
+TAG_MANTIS_012_07,Tiger Shark,4.3,-33.881265,151.295203,2025-09-30T15:22:50.146276,True,0.304,3.55,150.7,2.02,16.81,mixed_diet,mixed_diet,correct,0.08,0.7495,mantis_tag,89.0,-46
+TAG_MANTIS_012_08,Tiger Shark,4.3,-33.923352,151.412683,2025-09-28T16:22:50.146699,True,0.176,3.29,117.9,1.14,17.7,squid_cephalopods,squid_cephalopods,correct,0.1,0.7069,mantis_tag,87.5,-48
+TAG_MANTIS_012_09,Tiger Shark,4.3,-33.617682,150.764297,2025-10-02T05:22:50.147135,True,0.351,3.28,241.3,2.14,16.96,squid_cephalopods,squid_cephalopods,correct,0.18,0.5288,mantis_tag,65.9,-44
+TAG_MANTIS_012_10,Tiger Shark,4.3,-33.994208,151.318651,2025-10-01T17:22:50.147544,True,0.126,3.3,80.3,1.75,17.11,squid_cephalopods,squid_cephalopods,correct,0.1,0.6169,mantis_tag,88.6,-85
+TAG_MANTIS_012_11,Tiger Shark,4.3,-33.485973,150.772264,2025-10-04T10:22:50.148374,True,0.906,1.86,509.8,3.51,17.01,squid_cephalopods,squid_cephalopods,correct,0.72,0.4689,mantis_tag,99.5,-43
+TAG_MANTIS_012_12,Tiger Shark,4.3,-33.987618,151.374975,2025-10-02T04:22:50.149065,True,0.281,3.6,204.0,1.94,17.13,squid_cephalopods,mixed_diet,incorrect,0.08,0.6594,mantis_tag,96.0,-82
+TAG_MANTIS_012_13,Tiger Shark,4.3,-33.867838,151.230443,2025-09-30T21:22:50.149719,True,0.279,3.36,175.3,2.25,19.2,mixed_diet,mixed_diet,correct,0.18,0.7159,mantis_tag,91.7,-54
+TAG_MANTIS_012_14,Tiger Shark,4.3,-33.896996,151.452594,2025-09-28T07:22:50.150433,True,0.679,3.02,488.9,4.39,17.8,squid_cephalopods,squid_cephalopods,correct,0.57,0.4808,mantis_tag,92.5,-66
