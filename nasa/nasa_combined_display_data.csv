@@ -1,0 +1,286 @@
+event_id,latitude,longitude,display_confidence,timestamp,prey_type,habitat_quality,location_name,data_source,marker_type,popup_info,shark_species,shark_size_m
+NASA_001,-34.006124,151.170325,0.4868,2025-10-04T14:22:50.028802,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_002,-34.211733,151.238662,0.4433,2025-10-04T14:22:50.029063,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_003,-33.764549,151.272496,0.5607,2025-10-04T14:22:50.029168,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_004,-33.723373,151.226974,0.4774,2025-10-04T14:22:50.029235,squid_cephalopods,low,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Bondi Beach,N/A,N/A
+NASA_005,-33.841208,151.232913,0.7055,2025-10-04T14:22:50.029306,mixed_diet,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_006,-33.81107,151.134771,0.6334,2025-10-04T14:22:50.029363,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_007,-33.987836,151.374028,0.6594,2025-10-04T14:22:50.029424,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_008,-33.966793,151.093036,0.4838,2025-10-04T14:22:50.029484,mixed_diet,low,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Coogee Beach,N/A,N/A
+NASA_009,-33.849251,151.31358,0.446,2025-10-04T14:22:50.029538,squid_cephalopods,low,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Bondi Beach,N/A,N/A
+NASA_010,-33.655188,150.972405,0.3484,2025-10-04T14:22:50.029593,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_011,-33.944285,151.521579,0.6125,2025-10-04T14:22:50.029647,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_012,-33.77213,151.295775,0.4784,2025-10-04T14:22:50.029764,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_013,-33.696601,151.315732,0.6839,2025-10-04T14:22:50.029891,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_014,-33.995315,151.262959,0.5342,2025-10-04T14:22:50.029954,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_015,-33.966705,151.257604,0.781,2025-10-04T14:22:50.030013,mixed_diet,high,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (high) - Cronulla Beach,N/A,N/A
+NASA_016,-33.853403,151.259146,0.5944,2025-10-04T14:22:50.030070,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_017,-33.923357,151.41237,0.7069,2025-10-04T14:22:50.030126,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_018,-33.898627,151.453209,0.4808,2025-10-04T14:22:50.030183,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_019,-34.145281,151.205621,0.4394,2025-10-04T14:22:50.030239,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_020,-33.843009,151.324185,0.4717,2025-10-04T14:22:50.030303,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_021,-33.801429,151.197931,0.5735,2025-10-04T14:22:50.030364,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_022,-33.606187,150.950964,0.488,2025-10-04T14:22:50.030421,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_023,-33.698136,151.285103,0.4905,2025-10-04T14:22:50.030478,mixed_diet,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_024,-33.971274,151.473383,0.6728,2025-10-04T14:22:50.030534,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_025,-33.88115,151.29642,0.7495,2025-10-04T14:22:50.030590,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_026,-33.94613,151.058993,0.516,2025-10-04T14:22:50.030645,squid_cephalopods,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_027,-33.516796,151.164872,0.302,2025-10-04T14:22:50.030709,squid_cephalopods,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_028,-33.857668,151.484035,0.5547,2025-10-04T14:22:50.030772,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_029,-33.720357,151.47191,0.5499,2025-10-04T14:22:50.030830,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_030,-33.998009,151.226837,0.7225,2025-10-04T14:22:50.030885,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_031,-33.778511,151.201171,0.7367,2025-10-04T14:22:50.030940,mixed_diet,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_032,-33.859373,151.146472,0.6079,2025-10-04T14:22:50.030994,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_033,-33.562032,151.210528,0.4552,2025-10-04T14:22:50.031058,squid_cephalopods,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_034,-34.040415,151.181954,0.648,2025-10-04T14:22:50.031122,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_035,-33.739361,151.511637,0.5362,2025-10-04T14:22:50.031190,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_036,-34.161171,150.951908,0.4772,2025-10-04T14:22:50.031250,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_037,-33.749239,151.316701,0.6659,2025-10-04T14:22:50.031308,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_038,-33.924693,151.062038,0.5377,2025-10-04T14:22:50.031363,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_039,-33.667656,151.348482,0.6662,2025-10-04T14:22:50.031419,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_040,-33.994324,151.318752,0.6169,2025-10-04T14:22:50.031474,squid_cephalopods,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_041,-33.890892,151.314604,0.5213,2025-10-04T14:22:50.031530,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_042,-33.93163,151.217472,0.6465,2025-10-04T14:22:50.031593,mixed_diet,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_043,-34.138759,150.956221,0.4036,2025-10-04T14:22:50.031655,squid_cephalopods,low,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Coogee Beach,N/A,N/A
+NASA_044,-33.799309,151.426973,0.4639,2025-10-04T14:22:50.031809,squid_cephalopods,low,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Bondi Beach,N/A,N/A
+NASA_045,-33.88226,151.150574,0.7396,2025-10-04T14:22:50.031871,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_046,-33.899705,151.309399,0.4092,2025-10-04T14:22:50.031927,squid_cephalopods,low,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Coogee Beach,N/A,N/A
+NASA_047,-33.85412,151.340715,0.475,2025-10-04T14:22:50.031982,squid_cephalopods,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_048,-33.787146,151.372171,0.5922,2025-10-04T14:22:50.032047,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_049,-34.000135,151.384193,0.4802,2025-10-04T14:22:50.032108,squid_cephalopods,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_050,-34.080726,151.039571,0.6013,2025-10-04T14:22:50.032166,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_051,-33.724717,151.506883,0.356,2025-10-04T14:22:50.032222,squid_cephalopods,low,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Bondi Beach,N/A,N/A
+NASA_052,-34.243337,151.256105,0.365,2025-10-04T14:22:50.032278,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_053,-33.863696,151.296213,0.6897,2025-10-04T14:22:50.032333,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_054,-33.768368,151.13263,0.6227,2025-10-04T14:22:50.032389,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_055,-33.651534,151.209418,0.5265,2025-10-04T14:22:50.032450,squid_cephalopods,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_056,-33.979722,151.144822,0.5391,2025-10-04T14:22:50.032508,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_057,-33.772917,151.304977,0.52,2025-10-04T14:22:50.032561,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_058,-34.103289,151.277903,0.5853,2025-10-04T14:22:50.032616,squid_cephalopods,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_059,-33.969711,151.157026,0.5504,2025-10-04T14:22:50.032668,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_060,-34.041874,151.301026,0.6434,2025-10-04T14:22:50.032720,squid_cephalopods,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_061,-33.795378,151.08828,0.5987,2025-10-04T14:22:50.032771,squid_cephalopods,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_062,-33.956495,151.30859,0.4649,2025-10-04T14:22:50.032822,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_063,-34.012442,151.244232,0.4349,2025-10-04T14:22:50.032882,squid_cephalopods,low,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Cronulla Beach,N/A,N/A
+NASA_064,-33.559159,151.233353,0.4429,2025-10-04T14:22:50.032940,squid_cephalopods,low,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Manly Beach,N/A,N/A
+NASA_065,-33.825764,151.460415,0.5873,2025-10-04T14:22:50.032999,squid_cephalopods,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_066,-33.609285,151.29282,0.5572,2025-10-04T14:22:50.033064,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_067,-33.751526,151.284242,0.5752,2025-10-04T14:22:50.033123,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_068,-33.98552,151.321712,0.4467,2025-10-04T14:22:50.033180,squid_cephalopods,low,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Coogee Beach,N/A,N/A
+NASA_069,-34.038332,151.069992,0.6718,2025-10-04T14:22:50.033236,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_070,-33.660739,151.250777,0.6571,2025-10-04T14:22:50.033299,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_071,-33.92566,151.22044,0.7397,2025-10-04T14:22:50.033356,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_072,-33.978926,151.460776,0.5315,2025-10-04T14:22:50.033410,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_073,-33.810545,151.150353,0.7865,2025-10-04T14:22:50.033462,plankton_bloom,high,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (high) - Bondi Beach,N/A,N/A
+NASA_074,-34.002132,151.392649,0.77,2025-10-04T14:22:50.033513,mixed_diet,high,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (high) - Bondi Beach,N/A,N/A
+NASA_075,-33.972179,151.083936,0.7008,2025-10-04T14:22:50.033565,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_076,-34.044013,151.370073,0.5994,2025-10-04T14:22:50.033617,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_077,-33.866726,151.23175,0.7159,2025-10-04T14:22:50.033668,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_078,-33.768661,151.166165,0.6372,2025-10-04T14:22:50.033729,mixed_diet,medium,Cronulla Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Cronulla Beach,N/A,N/A
+NASA_079,-34.108991,151.372437,0.545,2025-10-04T14:22:50.033784,squid_cephalopods,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_080,-33.822172,151.096366,0.4483,2025-10-04T14:22:50.033836,squid_cephalopods,low,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Harbour,N/A,N/A
+NASA_081,-33.919502,151.457575,0.597,2025-10-04T14:22:50.033888,squid_cephalopods,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_082,-33.624682,151.307629,0.6015,2025-10-04T14:22:50.033940,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_083,-33.697622,151.285038,0.4077,2025-10-04T14:22:50.033993,squid_cephalopods,low,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Coogee Beach,N/A,N/A
+NASA_084,-33.960848,151.17961,0.6815,2025-10-04T14:22:50.034050,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_085,-33.816612,151.345161,0.4382,2025-10-04T14:22:50.034110,squid_cephalopods,low,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Bondi Beach,N/A,N/A
+NASA_086,-33.927126,151.153731,0.5018,2025-10-04T14:22:50.034173,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_087,-34.068555,151.120707,0.5105,2025-10-04T14:22:50.034229,mixed_diet,medium,Bondi Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Bondi Beach,N/A,N/A
+NASA_088,-33.956386,151.162097,0.734,2025-10-04T14:22:50.034285,mixed_diet,medium,Coogee Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Coogee Beach,N/A,N/A
+NASA_089,-33.797606,151.154331,0.6476,2025-10-04T14:22:50.034340,mixed_diet,medium,Sydney Harbour,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Harbour,N/A,N/A
+NASA_090,-33.647135,151.428682,0.5089,2025-10-04T14:22:50.034392,squid_cephalopods,medium,Manly Beach,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Manly Beach,N/A,N/A
+NASA_091,-33.510048,150.853194,0.4555,2025-10-04T14:22:50.034444,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_092,-34.09253,151.306449,0.5547,2025-10-04T14:22:50.034509,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_093,-33.133041,150.741603,0.4184,2025-10-04T14:22:50.034572,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_094,-33.103824,151.869447,0.3961,2025-10-04T14:22:50.034625,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_095,-33.750007,150.733539,0.3186,2025-10-04T14:22:50.034679,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_096,-33.765807,151.28448,0.4783,2025-10-04T14:22:50.034730,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_097,-34.122067,151.574678,0.3282,2025-10-04T14:22:50.034790,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_098,-33.527321,151.601621,0.3619,2025-10-04T14:22:50.034846,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_099,-34.050922,150.938959,0.4961,2025-10-04T14:22:50.034899,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_100,-33.987769,151.303172,0.5646,2025-10-04T14:22:50.034952,mixed_diet,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_101,-33.102052,150.636447,0.4512,2025-10-04T14:22:50.035016,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_102,-33.594704,151.259002,0.544,2025-10-04T14:22:50.035068,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_103,-33.412454,151.034563,0.3791,2025-10-04T14:22:50.035130,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_104,-33.439493,150.793103,0.3693,2025-10-04T14:22:50.035180,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_105,-33.960745,150.551141,0.275,2025-10-04T14:22:50.035230,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_106,-33.643332,151.909598,0.4148,2025-10-04T14:22:50.035282,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_107,-34.112292,150.535071,0.3923,2025-10-04T14:22:50.035332,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_108,-33.056223,151.772607,0.3293,2025-10-04T14:22:50.035383,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_109,-34.437331,151.317754,0.5174,2025-10-04T14:22:50.035443,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_110,-34.020941,151.437787,0.5706,2025-10-04T14:22:50.035493,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_111,-33.437077,151.129715,0.4079,2025-10-04T14:22:50.035541,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_112,-33.575497,150.713403,0.4129,2025-10-04T14:22:50.035589,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_113,-33.555083,150.736402,0.4322,2025-10-04T14:22:50.035646,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_114,-33.709655,151.608323,0.3745,2025-10-04T14:22:50.035697,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_115,-33.219249,151.067565,0.3524,2025-10-04T14:22:50.035760,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_116,-34.011251,151.772469,0.4319,2025-10-04T14:22:50.035814,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_117,-34.336456,150.905105,0.5116,2025-10-04T14:22:50.035878,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_118,-34.165897,151.465685,0.3278,2025-10-04T14:22:50.035933,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_119,-33.249594,151.836195,0.4309,2025-10-04T14:22:50.035981,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_120,-33.646395,150.532543,0.3384,2025-10-04T14:22:50.036035,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_121,-33.551094,151.001989,0.6105,2025-10-04T14:22:50.036094,mixed_diet,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_122,-33.004137,151.437975,0.4778,2025-10-04T14:22:50.036149,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_123,-34.495204,151.801498,0.3487,2025-10-04T14:22:50.036208,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_124,-33.325036,151.362196,0.331,2025-10-04T14:22:50.036260,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_125,-34.006703,151.533028,0.3514,2025-10-04T14:22:50.036333,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_126,-33.873918,150.693757,0.5315,2025-10-04T14:22:50.036387,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_127,-34.313366,151.262958,0.3109,2025-10-04T14:22:50.036441,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_128,-33.120401,150.559048,0.4715,2025-10-04T14:22:50.036489,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_129,-33.680738,151.97068,0.3249,2025-10-04T14:22:50.036537,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_130,-33.885554,151.913731,0.4303,2025-10-04T14:22:50.036590,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_131,-33.957419,151.270235,0.6416,2025-10-04T14:22:50.036638,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_132,-33.362007,151.248067,0.4498,2025-10-04T14:22:50.036686,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_133,-33.617791,150.763091,0.5288,2025-10-04T14:22:50.036746,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_134,-33.469747,151.763785,0.4357,2025-10-04T14:22:50.036803,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_135,-33.261525,151.951486,0.3257,2025-10-04T14:22:50.036852,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_136,-34.483451,151.116073,0.3241,2025-10-04T14:22:50.036900,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_137,-33.338927,151.040768,0.3888,2025-10-04T14:22:50.036949,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_138,-33.905561,151.453285,0.5414,2025-10-04T14:22:50.037002,mixed_diet,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_139,-33.750173,151.115742,0.4737,2025-10-04T14:22:50.037053,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_140,-34.467327,151.507267,0.4918,2025-10-04T14:22:50.037104,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_141,-33.625351,151.560975,0.4087,2025-10-04T14:22:50.037165,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_142,-34.403957,151.195507,0.3844,2025-10-04T14:22:50.037220,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_143,-33.141709,151.874802,0.5002,2025-10-04T14:22:50.037275,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_144,-33.837087,151.462507,0.5391,2025-10-04T14:22:50.037326,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_145,-34.032061,150.880684,0.4627,2025-10-04T14:22:50.037380,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_146,-34.310156,151.983137,0.3312,2025-10-04T14:22:50.037431,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_147,-33.485628,150.773621,0.4689,2025-10-04T14:22:50.037482,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_148,-34.366295,150.702973,0.3358,2025-10-04T14:22:50.037533,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+NASA_149,-33.548304,150.847825,0.5105,2025-10-04T14:22:50.037592,squid_cephalopods,medium,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (medium) - Sydney Waters,N/A,N/A
+NASA_150,-33.621782,151.115968,0.4913,2025-10-04T14:22:50.037646,squid_cephalopods,low,Sydney Waters,nasa_satellite,prediction,🛰️ NASA Prediction (low) - Sydney Waters,N/A,N/A
+TAG_MANTIS_001_01,-33.970406,151.157379,0.08,2025-10-04T05:22:50.048169,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_02,-33.661026,151.249883,0.68,2025-09-30T15:22:50.049078,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_03,-33.969872,151.157482,0.1,2025-10-02T09:22:50.051739,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_04,-33.944029,151.520819,0.18,2025-09-29T05:22:50.055202,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_05,-33.749479,151.115491,0.37,2025-10-02T22:22:50.057635,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_06,-34.011519,151.773049,0.23,2025-10-02T09:22:50.059609,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_07,-33.765493,151.285327,0.47,2025-09-29T23:22:50.060551,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_08,-34.001831,151.392678,0.18,2025-09-29T04:22:50.061324,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_09,-33.617373,150.763912,0.47,2025-09-30T14:22:50.061831,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_10,-33.840406,151.233094,0.1,2025-10-02T00:22:50.062646,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_11,-34.044121,151.369804,0.18,2025-10-03T05:22:50.063470,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_12,-33.837061,151.462343,0.47,2025-09-29T02:22:50.064203,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_13,-33.994789,151.318334,0.18,2025-09-28T10:22:50.064906,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_14,-33.986888,151.374245,0.0,2025-09-29T15:22:50.065444,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_001_15,-33.898594,151.452312,0.0,2025-10-02T04:22:50.065860,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_002_01,-33.617996,150.762606,0.3,2025-09-29T08:22:50.066321,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_02,-34.006727,151.16994,0.08,2025-09-30T21:22:50.066775,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_03,-33.945381,151.05936,0.08,2025-10-01T06:22:50.067216,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_04,-33.857929,151.483907,0.3,2025-10-01T02:22:50.067629,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_05,-33.750536,151.116052,0.0,2025-10-04T06:22:50.068238,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_06,-33.957579,151.162181,0.0,2025-10-03T19:22:50.068910,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_07,-33.843939,151.325301,0.08,2025-09-28T13:22:50.071450,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_002_08,-33.361882,151.248315,0.37,2025-09-30T22:22:50.073447,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (4.6m) - Feeding Event,Great White,4.6
+TAG_MANTIS_003_01,-33.924811,151.412799,0.33,2025-09-30T12:22:50.075079,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_02,-33.575451,150.71436,0.0,2025-09-27T23:22:50.076827,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_03,-33.556015,150.735513,0.1,2025-09-29T03:22:50.077731,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_04,-33.003666,151.43834,0.5,2025-09-30T22:22:50.078727,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_05,-33.873203,150.694464,0.27,2025-09-30T10:22:50.079364,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_06,-34.109642,151.370899,0.18,2025-10-01T08:22:50.079839,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_07,-33.967741,151.093827,0.37,2025-10-01T22:22:50.080538,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_08,-33.651387,151.210493,0.1,2025-09-29T06:22:50.081003,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_003_09,-34.002068,151.391265,0.0,2025-09-27T20:22:50.081469,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_004_01,-33.958602,151.269331,0.37,2025-10-01T20:22:50.082250,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_02,-33.815692,151.345596,0.68,2025-10-04T13:22:50.082737,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_03,-34.468047,151.507523,0.27,2025-10-03T05:22:50.083392,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_04,-33.880611,151.296483,0.27,2025-10-02T05:22:50.084082,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_05,-33.776957,151.200175,0.44,2025-10-02T23:22:50.084658,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_06,-33.884526,151.913857,0.08,2025-10-04T10:22:50.085201,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_07,-33.931384,151.218764,0.1,2025-10-02T09:22:50.087460,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_08,-33.999007,151.226472,0.22,2025-09-29T22:22:50.089829,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_09,-34.044581,151.370481,0.27,2025-10-04T03:22:50.091318,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_10,-33.843379,151.323671,0.57,2025-10-02T15:22:50.093882,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_11,-33.809778,151.150431,0.27,2025-10-01T14:22:50.095815,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_004_12,-33.851085,151.313252,0.37,2025-09-29T17:22:50.097211,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Great White (3.9m) - Feeding Event,Great White,3.9
+TAG_MANTIS_005_01,-33.897821,151.452739,0.0,2025-09-29T07:22:50.097667,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_02,-33.857135,151.14698,0.0,2025-09-29T16:22:50.098096,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_03,-33.772427,151.305652,0.1,2025-09-27T23:22:50.098509,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_04,-33.88637,151.913672,0.44,2025-09-29T11:22:50.098943,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_05,-33.768465,151.134298,0.1,2025-10-03T04:22:50.099395,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_06,-33.594929,151.259006,0.0,2025-10-03T00:22:50.100051,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_07,-33.886538,151.913593,0.1,2025-10-03T10:22:50.100539,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_005_08,-33.947157,151.059187,0.1,2025-09-30T06:22:50.101045,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.2m) - Feeding Event,Hammerhead,4.2
+TAG_MANTIS_006_01,-33.651091,151.209925,0.44,2025-10-02T22:22:50.103846,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_02,-33.987523,151.302627,0.4,2025-10-03T01:22:50.106001,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_03,-33.764213,151.273524,0.72,2025-10-04T06:22:50.107610,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_04,-33.95894,151.271088,0.1,2025-09-30T12:22:50.108509,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_05,-33.919721,151.457428,0.5,2025-10-01T13:22:50.109174,small_fish,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_06,-33.575615,150.713864,0.27,2025-10-01T19:22:50.109621,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_07,-33.862059,151.298002,0.37,2025-09-30T13:22:50.110242,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_08,-33.750302,151.116708,0.22,2025-10-02T23:22:50.110667,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_09,-34.001836,151.393032,0.08,2025-09-28T15:22:50.111100,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_10,-33.751179,151.116135,0.18,2025-09-29T15:22:50.111536,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_11,-34.03851,151.069436,0.18,2025-10-03T11:22:50.112032,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_12,-33.972379,151.083577,0.37,2025-10-01T00:22:50.112465,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_006_13,-33.864016,151.296218,0.37,2025-10-03T10:22:50.112880,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.0m) - Feeding Event,Tiger Shark,4.0
+TAG_MANTIS_007_01,-33.945016,151.059535,0.33,2025-10-01T03:22:50.113329,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_02,-34.033697,150.881908,0.1,2025-09-30T16:22:50.113748,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_03,-33.985068,151.321638,0.0,2025-10-02T03:22:50.114151,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_04,-33.750055,151.317697,0.1,2025-09-28T08:22:50.114600,small_fish,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_05,-33.653135,151.209672,0.23,2025-09-29T02:22:50.115076,plankton_bloom,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_06,-33.967695,151.095392,0.44,2025-09-29T11:22:50.115482,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_07,-33.810575,151.134761,0.0,2025-10-03T11:22:50.115913,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_08,-33.971753,151.084769,0.1,2025-10-01T02:22:50.116336,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_09,-33.9652,151.092815,0.37,2025-09-28T16:22:50.117108,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_10,-33.842661,151.325004,0.64,2025-10-02T04:22:50.119106,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_11,-33.626067,151.561182,0.6,2025-10-02T22:22:50.119913,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_12,-33.607472,150.951297,0.0,2025-09-30T10:22:50.120512,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_13,-33.925088,151.060053,0.08,2025-09-29T08:22:50.121011,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_007_14,-33.764621,151.274304,0.54,2025-10-02T13:22:50.121478,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (4.4m) - Feeding Event,Hammerhead,4.4
+TAG_MANTIS_008_01,-33.998024,151.226784,0.64,2025-10-03T09:22:50.121923,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_02,-33.971739,151.474083,0.0,2025-10-01T17:22:50.122349,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_03,-33.925799,151.220117,0.08,2025-09-29T17:22:50.122781,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_04,-33.997607,151.226651,0.1,2025-10-02T14:22:50.123175,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_05,-33.998233,151.225845,0.18,2025-09-29T11:22:50.123544,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_06,-33.004149,151.437964,0.27,2025-09-29T10:22:50.123942,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_07,-33.966605,151.257917,0.33,2025-10-01T07:22:50.124321,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_08,-33.925753,151.221369,0.64,2025-09-28T04:22:50.124688,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_09,-33.967777,151.258293,0.44,2025-10-03T14:22:50.125085,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_10,-33.966734,151.256959,0.37,2025-09-29T13:22:50.125522,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_11,-33.969802,151.156446,0.08,2025-09-27T16:22:50.125942,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_12,-33.998744,151.227003,0.0,2025-10-01T21:22:50.126356,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_13,-33.926203,151.219384,0.0,2025-09-27T19:22:50.126813,small_fish,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_14,-33.004481,151.437296,0.64,2025-10-03T23:22:50.127258,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_008_15,-33.867069,151.231071,0.1,2025-10-04T01:22:50.127661,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.4m) - Feeding Event,Bull Shark,3.4
+TAG_MANTIS_009_01,-33.748535,151.115299,0.15,2025-09-27T16:22:50.128115,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_02,-33.772146,151.295481,0.25,2025-10-02T00:22:50.128550,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_03,-33.608034,151.292176,0.15,2025-09-30T16:22:50.128967,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_04,-33.723196,151.22663,0.15,2025-10-02T18:22:50.129404,small_fish,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_05,-33.772573,151.303859,0.1,2025-09-29T06:22:50.129803,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_06,-33.853453,151.259367,0.0,2025-09-27T18:22:50.130244,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_07,-33.766989,151.133224,0.25,2025-10-02T02:22:50.130679,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_009_08,-33.994667,151.263022,0.0,2025-09-30T03:22:50.131125,small_fish,N/A,N/A,mantis_tag,validation,🏷️ Bronze Whaler (3.6m) - Feeding Event,Bronze Whaler,3.6
+TAG_MANTIS_010_01,-33.765351,151.272607,0.0,2025-10-01T22:22:50.131549,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_02,-33.924404,151.219759,0.23,2025-10-02T11:22:50.131953,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_03,-33.997253,151.226612,0.6,2025-09-30T02:22:50.132664,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_04,-33.918077,151.457794,0.0,2025-09-28T17:22:50.134269,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_05,-33.918352,151.456801,0.37,2025-10-04T04:22:50.135795,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_06,-33.967028,151.257053,0.1,2025-09-29T21:22:50.136917,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_07,-33.004565,151.438215,0.37,2025-10-01T03:22:50.137590,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_08,-33.004079,151.437182,0.63,2025-10-01T03:22:50.138037,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_09,-34.04164,151.182932,0.64,2025-09-29T19:22:50.138524,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_10,-33.925066,151.221741,0.0,2025-09-27T16:22:50.138908,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_010_11,-33.997104,151.228403,0.18,2025-10-01T10:22:50.139298,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Bull Shark (3.2m) - Feeding Event,Bull Shark,3.2
+TAG_MANTIS_011_01,-34.103509,151.277317,0.4,2025-09-28T09:22:50.139743,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_02,-33.924411,151.412997,0.1,2025-10-02T18:22:50.140365,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_03,-33.003177,151.437089,0.1,2025-09-27T20:22:50.140817,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_04,-33.720668,151.47241,0.0,2025-10-01T02:22:50.141231,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_05,-34.02,151.436985,0.44,2025-09-29T15:22:50.141607,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_06,-33.647175,151.428269,0.0,2025-10-03T00:22:50.142209,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_07,-34.032451,150.880809,0.0,2025-10-02T12:22:50.142640,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_011_08,-34.05066,150.936972,0.33,2025-09-28T15:22:50.143035,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Hammerhead (3.8m) - Feeding Event,Hammerhead,3.8
+TAG_MANTIS_012_01,-33.723889,151.226139,0.1,2025-09-28T01:22:50.143458,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_02,-33.998037,151.227543,0.27,2025-09-29T15:22:50.143880,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_03,-33.972515,151.085397,0.12,2025-10-02T12:22:50.144324,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_04,-34.212274,151.238577,0.37,2025-09-30T12:22:50.144801,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_05,-33.47024,151.763097,0.18,2025-09-28T05:22:50.145283,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_06,-33.957054,151.270229,0.37,2025-10-03T12:22:50.145842,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_07,-33.881265,151.295203,0.08,2025-09-30T15:22:50.146276,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_08,-33.923352,151.412683,0.1,2025-09-28T16:22:50.146699,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_09,-33.617682,150.764297,0.18,2025-10-02T05:22:50.147135,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_10,-33.994208,151.318651,0.1,2025-10-01T17:22:50.147544,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_11,-33.485973,150.772264,0.72,2025-10-04T10:22:50.148374,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_12,-33.987618,151.374975,0.08,2025-10-02T04:22:50.149065,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_13,-33.867838,151.230443,0.18,2025-09-30T21:22:50.149719,mixed_diet,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
+TAG_MANTIS_012_14,-33.896996,151.452594,0.57,2025-09-28T07:22:50.150433,squid_cephalopods,N/A,N/A,mantis_tag,validation,🏷️ Tiger Shark (4.3m) - Feeding Event,Tiger Shark,4.3
