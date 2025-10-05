@@ -19,7 +19,10 @@ satellite_data = None
 tag_data = None
 combined_data = None
 system_stats = {}
-real_time_events = []  # For demo: [{"event": "Feeding Detected", "timestamp": "2025-10-04T12:12:00Z"}]
+real_time_events = [
+    {"event": "Shark Tagged", "timestamp": "2025-10-05T10:30:00Z", "species": "Tiger Shark", "location": "Sydney Harbour"},
+    {"event": "Feeding Detected", "timestamp": "2025-10-05T11:15:00Z", "species": "Bull Shark", "location": "Bondi Beach"}
+]
 
 def load_generated_data():
     global satellite_data, tag_data, combined_data
@@ -46,27 +49,64 @@ def load_generated_data():
         combined_data = pd.DataFrame()
 
 def calculate_system_stats():
-    global system_stats, satellite_data, tag_data
+    global system_stats, satellite_data, tag_data, combined_data
+    
+    # Calculate accuracy from tag data
     if tag_data is not None and len(tag_data):
         correct = (tag_data['prediction_accuracy'] == 'correct').sum() if 'prediction_accuracy' in tag_data.columns else 0
         accuracy = float(correct) / float(len(tag_data)) if len(tag_data) > 0 else 0
     else:
         accuracy = 0.0
-    shark_species_count = int(tag_data['shark_species'].nunique()) if (tag_data is not None and 'shark_species' in tag_data.columns) else 0
+    
+    # Calculate shark species counts as object (species name -> count)
+    shark_species_tracked = {}
+    if combined_data is not None and 'shark_species' in combined_data.columns:
+        # Clean the data: remove NaN, empty strings, and 'NA' values
+        clean_species = combined_data['shark_species'].dropna()
+        clean_species = clean_species[clean_species.astype(str).str.strip() != '']
+        clean_species = clean_species[clean_species.astype(str).str.upper() != 'NA']
+        clean_species = clean_species[clean_species.astype(str).str.upper() != 'NAN']
+        
+        if len(clean_species) > 0:
+            # Convert to dict with species names as keys and counts as values
+            shark_species_tracked = clean_species.value_counts().to_dict()
+            print(f"[DEBUG] Species found in combined data: {list(shark_species_tracked.keys())}")
+        else:
+            print("[DEBUG] No valid species found in combined data")
+            
+    elif tag_data is not None and 'shark_species' in tag_data.columns:
+        # Fallback to tag data if combined data doesn't have species info
+        clean_species = tag_data['shark_species'].dropna()
+        clean_species = clean_species[clean_species.astype(str).str.strip() != '']
+        clean_species = clean_species[clean_species.astype(str).str.upper() != 'NA']
+        clean_species = clean_species[clean_species.astype(str).str.upper() != 'NAN']
+        
+        if len(clean_species) > 0:
+            shark_species_tracked = clean_species.value_counts().to_dict()
+            print(f"[DEBUG] Species found in tag data: {list(shark_species_tracked.keys())}")
+        else:
+            print("[DEBUG] No valid species found in tag data")
+    else:
+        print("[DEBUG] No shark_species column found in any data")
+    
     system_stats = {
         "prediction_accuracy": round(float(accuracy), 3),
         "total_satellite_predictions": int(len(satellite_data)) if satellite_data is not None else 0,
         "total_tag_validations": int(len(tag_data)) if tag_data is not None else 0,
-        "shark_species_tracked": shark_species_count
+        "shark_species_tracked": shark_species_tracked  # Now returns object with species names and counts
     }
+    
+    print(f"[DEBUG] Calculated stats: {system_stats}")
 
 @app.get("/")
 async def root():
     stats = system_stats
+    species_count = len(stats.get('shark_species_tracked', {}))
     return HTMLResponse(f"""
     <h2>🦈 MANTIS Backend API</h2>
     <p>Version 1.0</p>
     <p>Prediction Accuracy: {stats.get('prediction_accuracy',0):.1%}</p>
+    <p>Species Tracked: {species_count}</p>
     <p>System Stats: {stats}</p>
     """)
 
